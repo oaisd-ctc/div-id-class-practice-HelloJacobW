@@ -1,0 +1,47 @@
+.divss{
+height:150px;
+width:100%;
+margin:5px;
+border-radius:10px;
+background:blue;
+}
+#magenta{
+    background:magenta;
+    width:75%;
+}
+#navy{
+    background:navy;
+    width:50%;
+}
+#maroon{
+    background:maroon;
+    width:67%;
+}
+#hotpink{
+    background:hotpink;
+    width:43%;
+}
+#slateblue{
+    background:slateblue;
+    width:12%;
+}
+#azure{
+    background:azure;
+    width:300%;
+}
+#violet{
+    background:violet;
+    width:86%;
+}
+#aqua{
+    background:aqua;
+    width:90%;
+}
+#red{
+    background:red;
+    width:33%;
+}
+#lime{
+    background:lime;
+    width:27%;
+}
